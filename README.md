@@ -1,4 +1,4 @@
-# FBMarketingAnalytics
+# MetaMarketingAnalytics
 ## Meta Marketing Analytics Professional Certificate
 ### About this Professional Certificate
 
